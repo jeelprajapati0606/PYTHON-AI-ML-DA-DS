@@ -1,6 +1,6 @@
 print()
 print("Welcome To The Pattern Generator And Number Analyzer!")
-# print()
+
 print("* * * * * * * * * * * * * * * * * * * * * * * * * * ")
 
 while True:
@@ -54,5 +54,6 @@ while True:
 
             
     
+
 
 
