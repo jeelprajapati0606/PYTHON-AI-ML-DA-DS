@@ -47,7 +47,7 @@ while True:
         all_subjects.update(subjects)
         
         print()
-        print("Student added successfully!")
+        print(f"\nStudent {name} added successfully!")
 
         print("-"*20)
              
@@ -150,6 +150,7 @@ while True:
 
         
         
+
 
 
 
