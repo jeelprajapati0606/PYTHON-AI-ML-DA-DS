@@ -49,7 +49,8 @@ while True:
         print()
         print("Student added successfully!")
 
-        print("-"*15)
+        print("-"*20
+             )
 
 
 # 2. Display All Students
@@ -149,6 +150,7 @@ while True:
 
         
         
+
 
 
 
