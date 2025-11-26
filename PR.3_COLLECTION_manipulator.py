@@ -111,7 +111,7 @@ while True:
         for i in range(len(students)):
             if students[i]['Date of birth'][0] == stu_id:
                 del students[i]   # delete using del
-                found = True
+                
                 print("Student deleted successfully!")
                 
             else:
@@ -150,6 +150,7 @@ while True:
 
         
         
+
 
 
 
