@@ -122,11 +122,7 @@ while True:
         
 
         def big():           # maximum value
-            """\nThis Question Finds The Maximum, Minimum,Average Of Data Given By User.  
-    Parameters:
-        l(int): Take Number From User By Input.
-    return:
-        int: Return Result Of Different Equation.""" 
+            """\nThis Question Finds The Maximum, Minimum,Average Of Data Given By User.""" 
             
             gr = l[0]        #start with first number
             for a in l:
@@ -201,5 +197,6 @@ while True:
 
 
         
+
 
 
