@@ -1,0 +1,17 @@
+Date,Product,Category,Region,Sales,Profit,Quantity
+2024-01-01,Mobile,Electronics,North,25000,5000,5
+2024-01-02,Laptop,Electronics,South,55000,8000,2
+2024-01-03,Chair,Furniture,West,7000,1500,10
+2024-01-04,Table,Furniture,East,12000,2500,4
+2024-01-05,Headphones,Accessories,North,3000,800,6
+2024-01-06,Smart Watch,Electronics,South,15000,3500,3
+2024-01-07,Keyboard,Accessories,West,4500,1200,7
+2024-01-08,Mouse,Accessories,East,2000,500,8
+2024-01-09,Sofa,Furniture,North,40000,9000,1
+2024-01-10,Monitor,Electronics,West,18000,4000,3
+2024-01-11,Printer,Electronics,East,22000,4500,2
+2024-01-12,Bookshelf,Furniture,South,16000,3000,2
+2024-01-13,Tablet,Electronics,North,28000,6000,4
+2024-01-14,Speaker,Accessories,West,8000,2000,5
+2024-01-15,Office Desk,Furniture,East,35000,7500,1
+
